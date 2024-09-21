@@ -15,7 +15,7 @@ This component is responsible for helping meliponiculturists manage their bee tr
 
 <h2 id="dataModel">🗄️ Data Model</h2>
 
-<img src="https://i.postimg.cc/nhzvnk17/temp-Image-XUs9z0.avif" data-canonical-src="https://postimg.cc/hfkJrV6P" width="900" height="500" />
+<img src="https://i.postimg.cc/8czCLycm/temp-Image-HTTmv-I.avif" data-canonical-src="https://postimg.cc/r07ckNSD" width="750" height="400" />
 
 <h2 id="features">✨ Features</h2>
 
