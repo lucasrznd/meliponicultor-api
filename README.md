@@ -13,6 +13,10 @@
 
 This component is responsible for helping meliponiculturists manage their bee traps. Meliponiculture is the activity of breeding stingless bee species.
 
+<h2 id="dataModel">🗄️ Data Model</h2>
+
+<img src="https://i.postimg.cc/nhzvnk17/temp-Image-XUs9z0.avif" data-canonical-src="https://postimg.cc/hfkJrV6P" width="900" height="500" />
+
 <h2 id="features">✨ Features</h2>
 
 - **Registration of Meliponicultor**: Endpoints for querying, creating, updating, or deleting.
