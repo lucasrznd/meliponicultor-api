@@ -6,4 +6,17 @@ const meliponicultor = joi.object({
     email: joi.string().email().required()
 });
 
-export = { meliponicultor };
+const bait = joi.object({
+    meliponicultorId: joi.number().required(),
+    beeSpecie: joi.string().min(3).required(),
+    mlQuantity: joi.number().min(1).required(),
+    installationDate: joi.date().required(),
+    captureStatus: joi.boolean().required(),
+    allowedTransfer: joi.boolean().required()
+    
+});
+
+export = { meliponicultor, bait };
+
+   
+   

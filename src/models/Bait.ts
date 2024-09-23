@@ -46,7 +46,7 @@ Bait.init({
         type: sequelize.BOOLEAN,
         allowNull: false
     },
-    allowedTansfer: {
+    allowedTransfer: { 
         type: sequelize.BOOLEAN,
         allowNull: false
     }
