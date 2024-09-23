@@ -4,15 +4,8 @@ interface IBait {
     mlQuantity: number;
     beeSpecie: string;
     installationDate: Date;
-    captureStatus:boolean;
-    allowedTransfer:boolean;
+    captureStatus: boolean;
+    allowedTransfer: boolean;
 }
 
 export default IBait;
-
-
-
-    
-    
-    
-  

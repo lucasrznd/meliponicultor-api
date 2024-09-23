@@ -1,7 +1,6 @@
 import { NextFunction, Request, Response } from "express";
 import BaitService from "../services/bait.service";
 
-
 class BaitController {
     private service = new BaitService();
 
