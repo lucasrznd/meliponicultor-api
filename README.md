@@ -52,11 +52,12 @@ npx sequelize db:create
 npx sequelize db:migrate
 ```
 
-<h2 id="author">👨🏻‍💻 Author</h2>
+<h2 id="authors">👨🏻‍💻 Authors</h2>
 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lucasrznd"><img src="https://avatars.githubusercontent.com/u/101664450?v=4&v=" width="115px;" alt="Lucas Rezende"/><br /><sub><b>Lucas Rezende</b></sub></a><br/><a title="Código">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lucasrznd"><img src="https://avatars.githubusercontent.com/u/101664450?v=4&v=" width="115px;" alt="Lucas Rezende"/><br /><sub><b>Lucas Rezende</b></sub></a><br/><a title="code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Revored0"><img src="https://avatars.githubusercontent.com/u/107728250?v=4&v=" width="115px;" alt="João Revoredo"/><br /><sub><b>João Revoredo</b></sub></a><br/><a title="code">💻</a></td>
   </tbody>
 </table>
