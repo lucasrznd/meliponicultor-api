@@ -59,7 +59,7 @@ Bait.init({
 
 Bait.belongsTo(Meliponicultor, {
     foreignKey: 'meliponicultorId',
-    as: 'bait'
+    as: 'meliponicultor'
 })
 
 export default Bait;
