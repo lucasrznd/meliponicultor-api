@@ -11,7 +11,7 @@
 
 <h2 id="description">📙 Description</h2>
 
-This component is responsible for helping meliponiculturists manage their bee traps. Meliponiculture is the activity of breeding stingless bee species.
+This component is responsible for helping meliponicultors manage their bee traps. Meliponiculture is the activity of breeding stingless bee species.
 
 <h2 id="dataModel">🗄️ Data Model</h2>
 
